@@ -1,7 +1,9 @@
 const express = require('express');
 const bodyParser = require('body-parser');
-const app = express();
+require('localenvironment');
 
+const app = express();
+app.locals.pretty = true;
 const port = process.env.PORT || 3000;
 
 app.use(bodyParser.json());
