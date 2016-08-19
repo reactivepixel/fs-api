@@ -18,8 +18,8 @@
     "body-parser": "^1.15.2",
     "express": "^4.14.0",
     "localenvironment": "^1.0.2",
-    "mysql": "^2.11.1",
-    "sequelize": "^3.23.6"
+    "sequelize": "^3.23.6",
+    "mysql": "^2.11.1"
   },
   "devDependencies": {
     "chai": "^3.5.0",
