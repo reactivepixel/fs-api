@@ -4,7 +4,7 @@ module.exports = (express) => {
   const apps = [
     {
       id: "0032c47b-4a7b-4232-9cc3-6af718244ea8",
-      title: "GroupVoter",
+      title: "GroupVoter", 
       description: "A fast paced side scrolling shooter",
       artAssets: [
         { title: "Splash Screen", "srcLink": "http://i.imgur.com/5e5Ihb6.jpg" },
